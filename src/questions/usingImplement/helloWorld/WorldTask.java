@@ -1,4 +1,4 @@
-package questions.helloWorld;
+package questions.usingImplement.helloWorld;
 
 public class WorldTask implements Runnable{
     @Override

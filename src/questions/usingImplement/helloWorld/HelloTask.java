@@ -1,4 +1,4 @@
-package questions.helloWorld;
+package questions.usingImplement.helloWorld;
 
 public class HelloTask implements Runnable{
     @Override
@@ -6,6 +6,5 @@ public class HelloTask implements Runnable{
         for(int i = 0; i < 7; i++) {
             System.out.println("Hello - " + Thread.currentThread().getName());
         }
-
     }
 }

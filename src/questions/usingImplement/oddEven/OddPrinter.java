@@ -1,4 +1,4 @@
-package questions.oddEven;
+package questions.usingImplement.oddEven;
 
 public class OddPrinter implements Runnable{
     @Override

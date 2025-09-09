@@ -1,4 +1,4 @@
-package questions.helloWorld;
+package questions.usingImplement.helloWorld;
 
 public class HelloWorldClient {
     public static void main(String[] args) {

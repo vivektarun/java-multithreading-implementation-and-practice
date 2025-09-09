@@ -1,4 +1,4 @@
-package questions.oddEven;
+package questions.usingImplement.oddEven;
 
 public class OddEvenClient {
     public static void main(String[] args) {
