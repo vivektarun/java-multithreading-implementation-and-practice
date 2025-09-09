@@ -1,3 +1,5 @@
+package implementation.threadUsingRunnable;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Going inside the main method: " + Thread.currentThread().getName());
