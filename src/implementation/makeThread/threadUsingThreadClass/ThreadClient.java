@@ -1,4 +1,4 @@
-package implementation.threadUsingThreadClass;
+package implementation.makeThread.threadUsingThreadClass;
 
 public class ThreadClient {
     public static void main(String[] args) {

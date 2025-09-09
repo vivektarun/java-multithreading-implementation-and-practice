@@ -1,4 +1,4 @@
-package implementation.threadUsingRunnable;
+package implementation.makeThread.threadUsingRunnable;
 
 public class MultithreadLearning implements Runnable{
     @Override
